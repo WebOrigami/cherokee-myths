@@ -35,10 +35,11 @@ body {
   color: #222;
   font-family: "Noto Serif", serif;
   margin: 0;
+  --horizontal-padding: 2rem;
 }
 
 article {
-  padding: 1rem;
+  padding: 2rem var(--horizontal-padding);
   max-width: 800px;
 }
 
@@ -55,7 +56,7 @@ header {
   color: white;
   font-family: "Noto Sans", sans-serif;
   font-weight: bold;
-  padding: 1rem;
+  padding: 1rem var(--horizontal-padding);
 }
 
 header a {
@@ -79,5 +80,11 @@ hr {
   article p:first-of-type::first-letter {
     initial-letter: 2.75;
     padding: 0 0.5rem 0.5rem 0;
+  }
+}
+
+@media (min-width: 800px) {
+  body {
+    --horizontal-padding: 4rem;
   }
 }
