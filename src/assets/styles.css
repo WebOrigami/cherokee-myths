@@ -37,6 +37,11 @@ body {
   margin: 0;
 }
 
+article {
+  padding: 1rem;
+  max-width: 800px;
+}
+
 h1 {
   font-size: 2rem;
 }
@@ -62,9 +67,11 @@ header a:focus {
   text-decoration: underline;
 }
 
-article {
-  padding: 1rem;
-  max-width: 800px;
+hr {
+  background-color: #888;
+  border: none;
+  height: 1px;
+  margin: 2rem 0;
 }
 
 /* Drop cap */

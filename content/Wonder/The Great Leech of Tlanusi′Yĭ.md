@@ -8,10 +8,11 @@ Just above the junction is a deep hole in Valley river, and above it is a ledge 
 
 More than one person was carried down in this way, and their friends would find the body afterwards lying upon the bank with the ears and nose eaten off, until at last the people were afraid to go across the ledge any more, on account of the great leech, or even to go along that part of the trail. But there was one young fellow who laughed at the whole story, and said that he was not afraid of anything in Valley river, as he would show them. So one day he painted his face and put on his finest buckskin and started off toward the river, while all the people followed at a distance to see what might happen. Down the trail he went and out upon the ledge of rock, singing in high spirits:
 
-  > _Tlanu′sĭ găne′ga digi′găge_<br />
-  > _Dakwa′nitlaste′stĭ._<br />
-  > I’ll tie red leech skins<br />
-  > On my legs for garters.<br />
+> _Tlanu′sĭ găne′ga digi′găge_<br />
+> _Dakwa′nitlaste′stĭ._<br />
+>
+> I’ll tie red leech skins<br />
+> On my legs for garters.<br />
 
 But before he was half way across the water began to boil into white foam and a great wave rose and swept over the rock and carried him down, and he was never seen again.
 
