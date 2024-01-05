@@ -1,0 +1,20 @@
+=page.ori({
+  title: "Cherokee Myths",
+  @text: `
+    {{ @map(_, =@with(
+      {
+        area: @key
+      }, =`
+        <h2>{{ area }}</h2>
+        <ul>
+          {{ @map(_, =`
+          <li>
+            <a href="/{{ area }}/{{ @key }}">{{ _/title }}</a>
+          </li>
+          `) }}
+        </ul>
+      `
+    )) }}
+    {{ @mdHtml(README.md) }}
+  `
+})

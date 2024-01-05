@@ -1,0 +1,76 @@
+@font-face {
+  font-display: fallback;
+  font-family: "Noto Sans";
+  font-style: bold;
+  font-weight: 700;
+  src: url("/assets/fonts/NotoSans-Bold.ttf");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: "Noto Serif";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/assets/fonts/NotoSerif-Regular.ttf");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: "Noto Serif";
+  font-style: italic;
+  font-weight: 400;
+  src: url("/assets/fonts/NotoSerif-Italic.ttf");
+}
+
+@font-face {
+  font-display: fallback;
+  font-family: "Noto Serif";
+  font-style: bold;
+  font-weight: 700;
+  src: url("/assets/fonts/NotoSerif-Bold.ttf");
+}
+
+body {
+  background: #edcd830a;
+  color: #222;
+  font-family: "Noto Serif", serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+header {
+  background: #99383b;
+  color: white;
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+header a {
+  color: inherit;
+  text-decoration: none;
+}
+header a:hover,
+header a:focus {
+  text-decoration: underline;
+}
+
+article {
+  padding: 1rem;
+  max-width: 800px;
+}
+
+/* Drop cap */
+@supports (initial-letter: 1) {
+  article p:first-of-type::first-letter {
+    initial-letter: 2.75;
+    padding: 0 0.5rem 0.5rem 0;
+  }
+}
