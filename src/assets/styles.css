@@ -35,12 +35,13 @@ body {
   color: #222;
   font-family: "Noto Serif", serif;
   margin: 0;
-  --horizontal-padding: 2rem;
+  --horizontal-padding: clamp(1rem, 5vw, 4rem);
+  --max-width: 800px;
 }
 
 article {
   padding: 2rem var(--horizontal-padding);
-  max-width: 800px;
+  max-width: var(--max-width);
 }
 
 h1 {
@@ -54,13 +55,17 @@ h2 {
 }
 
 header {
-  align-items: center;
   background: #99383b;
   color: white;
+}
+
+nav {
+  align-items: center;
   display: grid;
   font-family: "Noto Sans", sans-serif;
   font-weight: bold;
   grid-template-columns: 1fr auto;
+  max-width: var(--max-width);
   padding: 1rem var(--horizontal-padding);
 }
 
@@ -98,11 +103,5 @@ hr {
   article p:first-of-type::first-letter {
     initial-letter: 2.75;
     padding: 0 0.5rem 0.5rem 0;
-  }
-}
-
-@media (min-width: 800px) {
-  body {
-    --horizontal-padding: 4rem;
   }
 }

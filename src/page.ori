@@ -8,13 +8,15 @@
   </head>
   <body>
     <header>
-      <div>
-        <a href="/">Cherokee Myths</a>
-      </div>
-      <a id="linkSearch" href="/search.html">
-        <span id="searchGlyph">&#9906</span>
-        Search
-      </a>
+      <nav>
+        <div>
+          <a href="/">Cherokee Myths</a>
+        </div>
+        <a id="linkSearch" href="/search.html">
+          <span id="searchGlyph">&#9906</span>
+          Search
+        </a>
+      </nav>
     </header>
     <article>
       <h1>{{ _/title }}</h1>
