@@ -8,7 +8,9 @@
   </head>
   <body>
     <header>
-      <a href="/">Cherokee Myths</a>
+      <div>
+        <a href="/">Cherokee Myths</a>
+      </div>
       <a id="linkSearch" href="/search.html">
         <span id="searchGlyph">&#9906</span>
         Search

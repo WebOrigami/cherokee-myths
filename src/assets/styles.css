@@ -52,6 +52,7 @@ h2 {
 }
 
 header {
+  align-items: center;
   background: #99383b;
   color: white;
   display: grid;
@@ -75,6 +76,13 @@ hr {
   border: none;
   height: 1px;
   margin: 2rem 0;
+}
+
+#linkSearch {
+  align-items: center;
+  display: inline-flex;
+  gap: 0.25rem;
+  text-decoration: none;
 }
 
 #searchGlyph {
