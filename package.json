@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "type": "module",
   "dependencies": {
-    "@weborigami/origami": "0.0.38"
+    "@weborigami/origami": "0.0.38",
+    "@weborigami/pagefind": "https://gitpkg.now.sh/WebOrigami/integrations/pagefind?56b7ecf0"
   },
   "scripts": {
     "start": "ori @serve @watch src, =@debug site.ori/public",

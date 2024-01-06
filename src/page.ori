@@ -9,6 +9,10 @@
   <body>
     <header>
       <a href="/">Cherokee Myths</a>
+      <a id="linkSearch" href="/search.html">
+        <span id="searchGlyph">&#9906</span>
+        Search
+      </a>
     </header>
     <article>
       <h1>{{ _/title }}</h1>

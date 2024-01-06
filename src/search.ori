@@ -1,0 +1,18 @@
+=page.ori({
+  title: "Search"
+  @text: `
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js"></script>
+    <div id="search"></div>
+    <script>
+      window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({
+          element: "#search",
+          pageSize: 10,
+          showImages: false,
+          showSubResults: true,
+        });
+      });
+    </script>
+  `
+})

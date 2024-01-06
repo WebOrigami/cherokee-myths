@@ -54,8 +54,10 @@ h2 {
 header {
   background: #99383b;
   color: white;
+  display: grid;
   font-family: "Noto Sans", sans-serif;
   font-weight: bold;
+  grid-template-columns: 1fr auto;
   padding: 1rem var(--horizontal-padding);
 }
 
@@ -73,6 +75,12 @@ hr {
   border: none;
   height: 1px;
   margin: 2rem 0;
+}
+
+#searchGlyph {
+  display: inline-block;
+  font-size: larger;
+  transform: rotate(-45deg);
 }
 
 /* Drop cap */

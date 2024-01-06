@@ -6,7 +6,9 @@
     {
       assets
       index.html = index.ori(fragments)
-    },
+      pagefind = node_modules/@weborigami/pagefind/src/treeIndex.js(stories)
+      search.html = search.ori()
+    }
     stories
   )
 }
