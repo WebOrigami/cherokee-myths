@@ -35,13 +35,20 @@ body {
   color: #222;
   font-family: "Noto Serif", serif;
   margin: 0;
-  --horizontal-padding: clamp(1rem, 5vw, 4rem);
-  --max-width: 800px;
 }
 
+header,
+main {
+  --gutter: clamp(1rem, 5vw, 4rem);
+  display: grid;
+  grid-template-columns: var(--gutter) minmax(min-content, 800px) var(--gutter);
+  justify-content: center;
+}
+
+nav,
 article {
-  padding: 2rem var(--horizontal-padding);
-  max-width: var(--max-width);
+  grid-column: 2;
+  max-width: 800px;
 }
 
 h1 {
@@ -65,8 +72,7 @@ nav {
   font-family: "Noto Sans", sans-serif;
   font-weight: bold;
   grid-template-columns: 1fr auto;
-  max-width: var(--max-width);
-  padding: 1rem var(--horizontal-padding);
+  padding: 1rem 0;
 }
 
 header a {
@@ -100,7 +106,7 @@ hr {
 
 /* Drop cap */
 @supports (initial-letter: 1) {
-  article p:first-of-type::first-letter {
+  h1 + p::first-letter {
     initial-letter: 2.75;
     padding: 0 0.5rem 0.5rem 0;
   }
