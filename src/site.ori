@@ -1,14 +1,23 @@
+# This file defines the structure of the entire site.
 {
-  fragments = @map(content, { deep: @true, extensions: "md→html", valueMap: @mdHtml })
-  stories = @map(fragments, { deep: @true, valueMap: page.ori })
-
+  # What's public: all the stories, plus some specific files/folders
   public = @tree/merge(
+    stories
     {
       assets
+
+      # Home page: lists all the folders and story files
       index.html = index.ori(fragments)
+
+      # Indexes and resources for searching
       pagefind = package:@weborigami/pagefind(stories)
       search.html = search.ori()
     }
-    stories
   )
+
+  # Turn all the markdown files into HTML fragments.
+  fragments = @map(content, { deep: @true, extensions: "md→html", valueMap: @mdHtml })
+
+  # Put all those HTML fragments into a page template.
+  stories = @map(fragments, { deep: @true, valueMap: page.ori })
 }

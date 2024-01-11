@@ -1,3 +1,4 @@
+# Table of Contents template
 =@map(_, =@with({ area: @key }, =`
     <h2>{{ area }}</h2>
     <ul>
