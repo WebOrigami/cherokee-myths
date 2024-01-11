@@ -1,12 +1,23 @@
 # Table of Contents template
-=@map(_, =@with({ area: @key }, =`
-    <h2>{{ area }}</h2>
-    <ul>
-      {{ @map(_, =`
-      <li>
-        <a href="/{{ area }}/{{ @key }}">{{ @basename(@key) }}</a>
-      </li>
-      `) }}
-    </ul>
-  `
-))
+@map({
+  keyName: "chapter"
+  valueMap: =[
+    `
+      <h2>{{ chapter }}</h2>
+      <ul>
+    `
+    
+    @map(_, {
+      keyName: "story"
+      valueMap: =`
+        <li>
+          <a href="/{{ chapter }}/{{ story }}">{{ _/title }}</a>
+        </li>
+      `
+    })
+
+    `
+      </ul>
+    `
+  ]
+})
