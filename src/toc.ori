@@ -3,7 +3,7 @@
     <ul>
       {{ @map(_, =`
       <li>
-        <a href="/{{ area }}/{{ @key }}">{{ _/title }}</a>
+        <a href="/{{ area }}/{{ @key }}">{{ @basename(@key) }}</a>
       </li>
       `) }}
     </ul>
