@@ -1,7 +1,7 @@
 ---
 title: The Tsundige′Wĭ
-number: 74
 ---
+
 Once some young men of the Cherokee set out to see what was in the world and traveled south until they came to a tribe of little people called _Tsundige′wĭ_, with very queer shaped bodies, hardly tall enough to reach up to a man’s knee, who had no houses, but lived in nests scooped in the sand and covered over with dried grass. The little fellows were so weak and puny that they could not fight at all, and were in constant terror from the wild geese and other birds that used to come in great flocks from the south to make war upon them.
 
 Just at the time that the travelers got there they found the little men in great fear, because there was a strong wind blowing from the south and it blew white feathers and down along the sand, so that the Tsundige′wĭ knew their enemies were coming not far behind. The Cherokee asked them why they did not defend themselves, but they said they could not, because they did not know how. There was no time to make bows and arrows, but the travelers told them to take sticks for clubs, and showed them where to strike the birds on the necks to kill them.

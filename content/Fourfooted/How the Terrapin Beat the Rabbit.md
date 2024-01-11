@@ -1,7 +1,7 @@
 ---
 title: How the Terrapin Beat the Rabbit
-number: 20
 ---
+
 The Rabbit was a great runner, and everybody knew it. No one thought the Terrapin anything but a slow traveler, but he was a great warrior and very boastful, and the two were always disputing about their speed. At last they agreed to decide the matter by a race. They fixed the day and the starting place and arranged to run across four mountain ridges, and the one who came in first at the end was to be the winner.
 
 The Rabbit felt so sure of it that he said to the Terrapin, “You know you can’t run. You can never win the race, so I’ll give you the first ridge and then you’ll have only three to cross while I go over four.”

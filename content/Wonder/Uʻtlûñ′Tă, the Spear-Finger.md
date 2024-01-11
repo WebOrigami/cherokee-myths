@@ -1,7 +1,7 @@
 ---
 title: Uʻtlûñ′Tă, the Spear-Finger
-number: 66
 ---
+
 Long, long ago—_hĭlahi′yu_—there dwelt in the mountains a terrible ogress, a woman monster, whose food was human livers. She could take on any shape or appearance to suit her purpose, but in her right form she looked very much like an old woman, excepting that her whole body was covered with a skin as hard as a rock that no weapon could wound or penetrate, and that on her right hand she had a long, stony forefinger of bone, like an awl or spearhead, with which she stabbed everyone to whom she could get near enough. On account of this fact she was called _Uʻtlûñ′tă_, “Spear-finger,” and on account of her stony skin she was sometimes called _Nûñ′yunu′wĭ_, “Stone-dress.” There was another stone-clothed monster that killed people, but that is a different story.
 
 Spear-finger had such powers over stone that she could easily lift and carry immense rocks, and could cement them together by merely striking one against another. To get over the rough country more easily she undertook to build a great rock bridge through the air from Nûñyû′-tluʻgûñ′yĭ, the “Tree rock,” on Hiwassee, over to Sanigilâ′gĭ (Whiteside mountain), on the Blue ridge, and had it well started from the top of the “Tree rock” when the lightning struck it and scattered the fragments along the whole ridge, where the pieces can still be seen by those who go there. She used to range all over the mountains about the heads of the streams and in the dark passes of Nantahala, always hungry and looking for victims. Her favorite haunt on the Tennessee side was about the gap on the trail where Chilhowee mountain comes down to the river.
@@ -14,8 +14,8 @@ When the Cherokee went out in the fall, according to their custom, to burn the l
 
 Sometimes she took her proper form, and once or twice, when far out from the settlements, a solitary hunter had seen an old woman, with a queer-looking hand, going through the woods singing low to herself:
 
-  > _Uwe′la nátsĭkû′. Su′ să′ sai′._<br />
-  > Liver, I eat it. Su′ să′ sai′.<br />
+> _Uwe′la nátsĭkû′. Su′ să′ sai′._<br />
+> Liver, I eat it. Su′ să′ sai′.<br />
 
 It was rather a pretty song, but it chilled his blood, for he knew it was the liver eater, and he hurried away, silently, before she might see him.
 

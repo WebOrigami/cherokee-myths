@@ -1,6 +1,5 @@
 ---
 title: How the Kingfisher Got His Bill
-number: 39
 ---
 Some old men say that the Kingfisher was meant in the beginning to be a water bird, but as he had not been given either web feet or a good bill he could not make a living. The animals held a council over it and decided to make him a bill like a long sharp awl for a fish-gig (fish-spear). So they made him a fish-gig and fastened it on in front of his mouth. He flew to the top of a tree, sailed out and darted down into the water, and came up with a fish on his gig. And he has been the best gigger ever since.
 

@@ -1,7 +1,7 @@
 ---
 title: How the Rabbit Stole the Otter’s Coat
-number: 17
 ---
+
 The animals were of different sizes and wore coats of various colors and patterns. Some wore long fur and others wore short. Some had rings on their tails, and some had no tails at all. Some had coats of brown, others of black or yellow. They were always disputing about their good looks, so at last they agreed to hold a council to decide who had the finest coat.
 
 They had heard a great deal about the Otter, who lived so far up the creek that he seldom came down to visit the other animals. It was said that he had the finest coat of all, but no one knew just what it was like, because it was a long time since anyone had seen him. They did not even know exactly where he lived—only the general direction; but they knew he would come to the council when the word got out.

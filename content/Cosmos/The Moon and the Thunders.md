@@ -1,7 +1,7 @@
 ---
 title: The Moon and the Thunders
-number: 8
 ---
+
 The Sun was a young woman and lived in the East, while her brother, the Moon, lived in the West. The girl had a lover who used to come every month in the dark of the moon to court her. He would come at night, and leave before daylight, and although she talked with him she could not see his face in the dark, and he would not tell her his name, until she was wondering all the time who it could be. At last she hit upon a plan to find out, so the next time he came, as they were sitting together in the dark of the âsĭ, she slyly dipped her hand into the cinders and ashes of the fireplace and rubbed it over his face, saying, “Your face is cold; you must have suffered from the wind,” and pretending to be very sorry for him, but he did not know that she had ashes on her hand. After a while he left her and went away again.
 
 The next night when the Moon came up in the sky his face was covered with spots, and then his sister knew he was the one who had been coming to see her. He was so much ashamed to have her know it that he kept as far away as he could at the other end of the sky all the night. Ever since he tries to keep a long way behind the Sun, and when he does sometimes have to come near her in the west he makes himself as thin as a ribbon so that he can hardly be seen.

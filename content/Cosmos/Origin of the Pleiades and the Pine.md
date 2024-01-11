@@ -1,7 +1,7 @@
 ---
 title: Origin of the Pleiades and the Pine
-number: 10
 ---
+
 Long ago, when the world was new, there were seven boys who used to spend all their time down by the townhouse playing the gatayû′stĭ game, rolling a stone wheel along the ground and sliding a curved stick after it to strike it. Their mothers scolded, but it did no good, so one day they collected some gatayû′stĭ stones and boiled them in the pot with the corn for dinner. When the boys came home hungry their mothers dipped out the stones and said, “Since you like the gatayû′stĭ better than the cornfield, take the stones now for your dinner.”
 
 The boys were very angry, and went down to the townhouse, saying, “As our mothers treat us this way, let us go where we shall never trouble them any more.” They began a dance—some say it was the Feather dance—and went round and round the townhouse, praying to the spirits to help them. At last their mothers were afraid something was wrong and went out to look for them. They saw the boys still dancing around the townhouse, and as they watched they noticed that their feet were off the earth, and that with every round they rose higher and higher in the air. They ran to get their children, but it was too late, for they were already above the roof of the townhouse—all but one, whose mother managed to pull him down with the gatayû′stĭ pole, but he struck the ground with such force that he sank into it and the earth closed over him.

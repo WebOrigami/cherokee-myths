@@ -1,6 +1,5 @@
 ---
 title: The Fourfooted Tribes
-number: 15
 ---
 
 In Cherokee mythology, as in that of Indian tribes generally, there is no essential difference between men and animals. In the primal genesis period they seem to be completely undifferentiated, and we find all creatures alike living and working together in harmony and mutual helpfulness until man, by his aggressiveness and disregard for the rights of the others, provokes their hostility, when insects, birds, fishes, reptiles, and fourfooted beasts join forces against him (see story, “Origin of Disease and Medicine”). Henceforth their lives are apart, but the difference is always one of degree only. The animals, like the people, are organized into tribes and have like them their chiefs and townhouses, their councils and ballplays, and the same hereafter in the Darkening land of Usûñhi′yĭ. Man is still the paramount power, and hunts and slaughters the others as his own necessities compel, but is obliged to satisfy the animal tribes in every instance, very much as a murder is compounded for, according to the Indian system, by “covering the bones of the dead” with presents for the bereaved relatives.

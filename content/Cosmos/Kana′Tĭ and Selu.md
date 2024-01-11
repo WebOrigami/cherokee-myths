@@ -1,7 +1,7 @@
 ---
 title: Kana′Tĭ and Selu
-number: 3
 ---
+
 When I was a boy this is what the old men told me they had heard when they were boys.
 
 Long years ago, soon after the world was made, a hunter and his wife lived at Pilot knob with their only child, a little boy. The father’s name was Kana′tĭ (The Lucky Hunter), and his wife was called Selu (Corn). No matter when Kana′tĭ went into the wood, he never failed to bring back a load of game, which his wife would cut up and prepare, washing off the blood from the meat in the river near the house. The little boy used to play down by the river every day, and one morning the old people thought they heard laughing and talking in the bushes as though there were two children there. When the boy came home at night his parents asked him who had been playing with him all day. “He comes out of the water,” said the boy, “and he calls himself my elder brother. He says his mother was cruel to him and threw him into the river.” Then they knew that the strange boy had sprung from the blood of the game which Selu had washed off at the river’s edge.
@@ -30,11 +30,11 @@ Soon they came to a swamp, and Kana′tĭ told them there was something dangerou
 
 After a while he turned to them and said, “Now you must be careful. We are coming to a tribe called the Anăda′dûñtăskĭ (“Roasters,” i. e., cannibals), and if they get you they will put you into a pot and feast on you.” Then he went on ahead. Soon the boys came to a tree which had been struck by lightning, and the Wild Boy directed his brother to gather some of the splinters from the tree and told him what to do with them. In a little while they came to the settlement of the cannibals, who, as soon as they saw the boys, came running out, crying, “Good, here are two nice fat strangers. Now we’ll have a grand feast!” They caught the boys and dragged them into the townhouse, and sent word to all the people of the settlement to come to the feast. They made up a great fire, put water into a large pot and set it to boiling, and then seized the Wild Boy and put him down into it. His brother was not in the least frightened and made no attempt to escape, but quietly knelt down and began putting the splinters into the fire, as if to make it burn better. When the cannibals thought the meat was about ready they lifted the pot from the fire, and that instant a blinding light filled the townhouse, and the lightning began to dart from one side to the other, striking down the cannibals until not one of them was left alive. Then the lightning went up through the smoke-hole, and the next moment there were the two boys standing outside the townhouse as though nothing had happened. They went on and soon met Kana′tĭ, who seemed much surprised to see them, and said, “What! are you here again?” “O, yes, we never give up. We are great men!” “What did the cannibals do to you?” “We met them and they brought us to their townhouse, but they never hurt us.” Kana′tĭ said nothing more, and they went on.
 
-***
+---
 
 He soon got out of sight of the boys, but they kept on until they came to the end of the world, where the sun comes out. The sky was just coming down when they got there, but they waited until it went up again, and then they went through and climbed up on the other side. There they found Kana′tĭ and Selu sitting together. The old folk received them kindly and were glad to see them, telling them they might stay there a while, but then they must go to live where the sun goes down. The boys stayed with their parents seven days and then went on toward the Darkening land, where they are now. We call them Anisga′ya Tsunsdi′ (The Little Men), and when they talk to each other we hear low rolling thunder in the west.
 
-***
+---
 
 After Kana′tĭ’s boys had let the deer out from the cave where their father used to keep them, the hunters tramped about in the woods for a long time without finding any game, so that the people were very hungry. At last they heard that the Thunder Boys were now living in the far west, beyond the sun door, and that if they were sent for they could bring back the game. So they sent messengers for them, and the boys came and sat down in the middle of the townhouse and began to sing.
 

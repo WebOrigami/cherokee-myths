@@ -1,7 +1,7 @@
 ---
 title: What the Stars Are Like
-number: 9
 ---
+
 There are different opinions about the stars. Some say they are balls of light, others say they are human, but most people say they are living creatures covered with luminous fur or feathers.
 
 One night a hunting party camping in the mountains noticed two lights like large stars moving along the top of a distant ridge. They wondered and watched until the light disappeared on the other side. The next night, and the next, they saw the lights again moving along the ridge, and after talking over the matter decided to go on the morrow and try to learn the cause. In the morning they started out and went until they came to the ridge, where, after searching some time, they found two strange creatures about _so_ large (making a circle with outstretched arms), with round bodies covered with fine fur or downy feathers, from which small heads stuck out like the heads of terrapins. As the breeze played upon these feathers showers of sparks flew out.

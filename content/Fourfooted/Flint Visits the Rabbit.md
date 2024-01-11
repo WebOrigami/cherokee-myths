@@ -1,7 +1,7 @@
 ---
 title: Flint Visits the Rabbit
-number: 25
 ---
+
 In the old days Tăwi′skălă (Flint) lived up in the mountains, and all the animals hated him because he had helped to kill so many of them. They used to get together to talk over means to put him out of the way, but everybody was afraid to venture near his house until the Rabbit, who was the boldest leader among them, offered to go after Flint and try to kill him. They told him where to find him, and the Rabbit set out and at last came to Flint’s house.
 
 Flint was standing at his door when the Rabbit came up and said, sneeringly, “_Siyu′!_ Hello! Are you the fellow they call Flint?” “Yes; that’s what they call me,” answered Flint. “Is this where you live?” “Yes; this is where I live.” All this time the Rabbit was looking about the place trying to study out some plan to take Flint off his guard. He had expected Flint to invite him into the house, so he waited a little while, but when Flint made no move, he said, “Well, my name is Rabbit; I’ve heard a good deal about you, so I came to invite you to come and see me.”

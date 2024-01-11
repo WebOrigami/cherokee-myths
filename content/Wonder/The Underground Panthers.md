@@ -1,7 +1,7 @@
 ---
 title: The Underground Panthers
-number: 73
 ---
+
 A hunter was in the woods one day in winter when suddenly he saw a panther coming toward him and at once prepared to defend himself. The panther continued to approach, and the hunter was just about to shoot when the animal spoke, and at once it seemed to the man as if there was no difference between them, and they were both of the same nature. The panther asked him where he was going, and the man said that he was looking for a deer. “Well,” said the panther, “we are getting ready for a Green-corn dance, and there are seven of us out after a buck, so we may as well hunt together.”
 
 The hunter agreed and they went on together. They started up one deer and another, but the panther made no sign, and said only, “Those are too small; we want something better.” So the hunter did not shoot, and they went on. They started up another deer, a larger one, and the panther sprang upon it and tore its throat, and finally killed it after a hard struggle. The hunter got out his knife to skin it, but the panther said the skin was too much torn to be used and they must try again. They started up another large deer, and this the panther killed without trouble, and then, wrapping his tail around it, threw it across his back. “Now, come to our townhouse,” he said to the hunter.

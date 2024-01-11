@@ -1,7 +1,7 @@
 ---
 title: The Rattlesnake’s Vengeance
-number: 58
 ---
+
 One day in the old times when we could still talk with other creatures, while some children were playing about the house, their mother inside heard them scream. Running out she found that a rattlesnake had crawled from the grass, and taking up a stick she killed it. The father was out hunting in the mountains, and that evening when coming home after dark through the gap he heard a strange wailing sound. Looking about he found that he had come into the midst of a whole company of rattlesnakes, which all had their mouths open and seemed to be crying. He asked them the reason of their trouble, and they told him that his own wife had that day killed their chief, the Yellow Rattlesnake, and they were just now about to send the Black Rattlesnake to take revenge.
 
 The hunter said he was very sorry, but they told him that if he spoke the truth he must be ready to make satisfaction and give his wife as a sacrifice for the life of their chief. Not knowing what might happen otherwise, he consented. They then told him that the Black Rattlesnake would go home with him and coil up just outside the door in the dark. He must go inside, where he would find his wife awaiting him, and ask her to get him a drink of fresh water from the spring. That was all.

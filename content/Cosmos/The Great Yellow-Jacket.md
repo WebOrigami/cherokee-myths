@@ -1,7 +1,7 @@
 ---
 title: The Great Yellow-Jacket
-number: 13
 ---
+
 A long time ago the people of the old town of Kanu′gaʻlâ′yĭ (“Brier place,” or Briertown), on Nantahala river, in the present Macon county, North Carolina, were much annoyed by a great insect called U′laʻgû′, as large as a house, which used to come from some secret hiding place, and darting swiftly through the air, would snap up children from their play and carry them away. It was unlike any other insect ever known, and the people tried many times to track it to its home, but it was too swift to be followed.
 
 They killed a squirrel and tied a white string to it, so that its course could be followed with the eye, as bee hunters follow the flight of a bee to its tree. The U′laʻgû′ came and carried off the squirrel with the string hanging to it, but darted away so swiftly through the air that it was out of sight in a moment. They killed a turkey and put a longer white string to it, and the U′laʻgû′ came and took the turkey, but was gone again before they could see in what direction it flew. They took a deer ham and tied a white string to it, and again the U′laʻgû′ swooped down and bore it off so swiftly that it could not be followed. At last they killed a yearling deer and tied a very long white string to it. The U′laʻgû′ came again and seized the deer, but this time the load was so heavy that it had to fly slowly and so low down that the string could be plainly seen.

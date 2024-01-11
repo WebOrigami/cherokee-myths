@@ -1,7 +1,7 @@
 ---
 title: The First Fire
-number: 2
 ---
+
 In the beginning there was no fire, and the world was cold, until the Thunders (Ani′-Hyûñ′tĭkwălâ′skĭ), who lived up in Gălûñ′lătĭ, sent their lightning and put fire into the bottom of a hollow sycamore tree which grew on an island. The animals knew it was there, because they could see the smoke coming out at the top, but they could not get to it on account of the water, so they held a council to decide what to do. This was a long time ago.
 
 Every animal that could fly or swim was anxious to go after the fire. The Raven offered, and because he was so large and strong they thought he could surely do the work, so he was sent first. He flew high and far across the water and alighted on the sycamore tree, but while he was wondering what to do next, the heat had scorched all his feathers black, and he was frightened and came back without the fire. The little Screech-owl (_Wa′huhu′_) volunteered to go, and reached the place safely, but while he was looking down into the hollow tree a blast of hot air came up and nearly burned out his eyes. He managed to fly home as best he could, but it was a long time before he could see well, and his eyes are red to this day. Then the Hooting Owl (_U′guku′_) and the Horned Owl (_Tskĭlĭ′_) went, but by the time they got to the hollow tree the fire was burning so fiercely that the smoke nearly blinded them, and the ashes carried up by the wind made white rings about their eyes. They had to come home again without the fire, but with all their rubbing they were never able to get rid of the white rings.

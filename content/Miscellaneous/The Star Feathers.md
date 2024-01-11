@@ -1,6 +1,5 @@
 ---
 title: The Star Feathers
-number: 116
 ---
 
 A long time ago a warrior of roving disposition went down into the white settlements toward the east, where for the first time he saw a peacock. The beautiful long feathers surprised and delighted him, and by trading some valuable Indian possession of his own he managed to buy a few of them, which he took with him to the mountains and hid, until he was ready to use them, in an old beaver lodge under the river bank. To get into the beaver lodge he had to dive under the water.

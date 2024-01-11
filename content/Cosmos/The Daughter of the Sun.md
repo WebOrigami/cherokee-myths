@@ -1,7 +1,7 @@
 ---
 title: The Daughter of the Sun
-number: 5
 ---
+
 The Sun lived on the other side of the sky vault, but her daughter lived in the middle of the sky, directly above the earth, and every day as the Sun was climbing along the sky arch to the west she used to stop at her daughter’s house for dinner.
 
 Now, the Sun hated the people on the earth, because they could never look straight at her without screwing up their faces. She said to her brother, the Moon, “My grandchildren are ugly; they grin all over their faces when they look at me.” But the Moon said, “I like my younger brothers; I think they are very handsome”—because they always smiled pleasantly when they saw him in the sky at night, for his rays were milder.

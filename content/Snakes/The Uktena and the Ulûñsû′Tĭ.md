@@ -1,6 +1,5 @@
 ---
 title: The Uktena and the Ulûñsû′Tĭ
-number: 50
 ---
 
 Long ago—_hĭlahi′yu_—when the Sun became angry at the people on earth and sent a sickness to destroy them, the Little Men changed a man into a monster snake, which they called Uktena, “The Keen-eyed,” and sent him to kill her. He failed to do the work, and the Rattlesnake had to be sent instead, which made the Uktena so jealous and angry that the people were afraid of him and had him taken up to Gălûñ′lătĭ, to stay with the other dangerous things. He left others behind him, though, nearly as large and dangerous as himself, and they hide now in deep pools in the river and about lonely passes in the high mountains, the places which the Cherokee call “Where the Uktena stays.”

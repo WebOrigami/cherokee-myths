@@ -1,7 +1,7 @@
 ---
 title: The Owl Gets Married
-number: 44
 ---
+
 A widow with one daughter was always warning the girl that she must be sure to get a good hunter for a husband when she married. The young woman listened and promised to do as her mother advised. At last a suitor came to ask the mother for the girl, but the widow told him that only a good hunter could have her daughter. “I’m just that kind,” said the lover, and again asked her to speak for him to the young woman. So the mother went to the girl and told her a young man had come a-courting, and as he said he was a good hunter she advised her daughter to take him. “Just as you say,” said the girl. So when he came again the matter was all arranged, and he went to live with the girl.
 
 The next morning he got ready and said he would go out hunting, but before starting he changed his mind and said he would go fishing. He was gone all day and came home late at night, bringing only three small fish, saying that he had had no luck, but would have better success to-morrow. The next morning he started off again to fish and was gone all day, but came home at night with only two worthless spring lizards (_duwĕ′gă_) and the same excuse. Next day he said he would go hunting this time. He was gone again until night, and returned at last with only a handful of scraps that he had found where some hunters had cut up a deer.

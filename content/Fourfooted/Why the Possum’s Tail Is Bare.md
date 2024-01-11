@@ -1,7 +1,7 @@
 ---
 title: Why the Possum’s Tail Is Bare
-number: 18
 ---
+
 The Possum used to have a long, bushy tail, and was so proud of it that he combed it out every morning and sang about it at the dance, until the Rabbit, who had had no tail since the Bear pulled it out, became very jealous and made up his mind to play the Possum a trick.
 
 There was to be a great council and a dance at which all the animals were to be present. It was the Rabbit’s business to send out the news, so as he was passing the Possum’s place he stopped to ask him if he intended to be there. The Possum said he would come if he could have a special seat, “because I have such a handsome tail that I ought to sit where everybody can see me.” The Rabbit promised to attend to it and to send some one besides to comb and dress the Possum’s tail for the dance, so the Possum was very much pleased and agreed to come.

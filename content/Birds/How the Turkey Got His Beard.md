@@ -1,7 +1,7 @@
 ---
 title: How the Turkey Got His Beard
-number: 37
 ---
+
 When the Terrapin won the race from the Rabbit (see the story) all the animals wondered and talked about it a great deal, because they had always thought the Terrapin slow, although they knew that he was a warrior and had many conjuring secrets beside. But the Turkey was not satisfied and told the others there must be some trick about it. Said he, “I know the Terrapin can’t run—he can hardly crawl—and I’m going to try him.”
 
 So one day the Turkey met the Terrapin coming home from war with a fresh scalp hanging from his neck and dragging on the ground as he traveled. The Turkey laughed at the sight and said: “That scalp don’t look right on you. Your neck is too short and low down to wear it that way. Let me show you.”

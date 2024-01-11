@@ -1,7 +1,7 @@
 ---
 title: How the World Was Made
-number: 1
 ---
+
 The earth is a great island floating in a sea of water, and suspended at each of the four cardinal points by a cord hanging down from the sky vault, which is of solid rock. When the world grows old and worn out, the people will die and the cords will break and let the earth sink down into the ocean, and all will be water again. The Indians are afraid of this.
 
 When all was water, the animals were above in Gălûñ′lătĭ, beyond the arch; but it was very much crowded, and they were wanting more room. They wondered what was below the water, and at last Dâyuni′sĭ, “Beaver’s Grandchild,” the little Water-beetle, offered to go and see if it could learn. It darted in every direction over the surface of the water, but could find no firm place to rest. Then it dived to the bottom and came up with some soft mud, which began to grow and spread on every side until it became the island which we call the earth. It was afterward fastened to the sky with four cords, but no one remembers who did this.

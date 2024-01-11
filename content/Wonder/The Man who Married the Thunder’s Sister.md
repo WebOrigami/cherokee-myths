@@ -1,7 +1,7 @@
 ---
 title: The Man who Married the Thunder’s Sister
-number: 84
 ---
+
 In the old times the people used to dance often and all night. Once there was a dance at the old town of Sâkwi′yĭ, on the head of Chattahoochee, and after it was well started two young women with beautiful long hair came in, but no one knew who they were or whence they had come. They danced with one partner and another, and in the morning slipped away before anyone knew that they were gone; but a young warrior had fallen in love with one of the sisters on account of her beautiful hair, and after the manner of the Cherokee had already asked her through an old man if she would marry him and let him live with her. To this the young woman had replied that her brother at home must first be consulted, and they promised to return for the next dance seven days later with an answer, but in the meantime if the young man really loved her he must prove his constancy by a rigid fast until then. The eager lover readily agreed and impatiently counted the days.
 
 In seven nights there was another dance. The young warrior was on hand early, and later in the evening the two sisters appeared as suddenly as before. They told him their brother was willing, and after the dance they would conduct the young man to their home, but warned him that if he told anyone where he went or what he saw he would surely die.

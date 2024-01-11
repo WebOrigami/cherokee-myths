@@ -1,15 +1,14 @@
 ---
 title: The Great Leech of Tlanusi′Yĭ
-number: 77
 ---
+
 The spot where Valley river joins Hiwassee, at Murphy, in North Carolina, is known among the Cherokees as Tlanusi′yĭ, “The Leech place,” and this is the story they tell of it:
 
 Just above the junction is a deep hole in Valley river, and above it is a ledge of rock running across the stream, over which people used to go as on a bridge. On the south side the trail ascended a high bank, from which they could look down into the water. One day some men going along the trail saw a great red object, full as large as a house, lying on the rock ledge in the middle of the stream below them. As they stood wondering what it could be they saw it unroll—and then they knew it was alive—and stretch itself out along the rock until it looked like a great leech with red and white stripes along its body. It rolled up into a ball and again stretched out at full length, and at last crawled down the rock and was out of sight in the deep water. The water began to boil and foam, and a great column of white spray was thrown high in the air and came down like a waterspout upon the very spot where the men had been standing, and would have swept them all into the water but that they saw it in time and ran from the place.
 
 More than one person was carried down in this way, and their friends would find the body afterwards lying upon the bank with the ears and nose eaten off, until at last the people were afraid to go across the ledge any more, on account of the great leech, or even to go along that part of the trail. But there was one young fellow who laughed at the whole story, and said that he was not afraid of anything in Valley river, as he would show them. So one day he painted his face and put on his finest buckskin and started off toward the river, while all the people followed at a distance to see what might happen. Down the trail he went and out upon the ledge of rock, singing in high spirits:
 
-> _Tlanu′sĭ găne′ga digi′găge_<br />
-> _Dakwa′nitlaste′stĭ._<br />
+> _Tlanu′sĭ găne′ga digi′găge_<br /> > _Dakwa′nitlaste′stĭ._<br />
 >
 > I’ll tie red leech skins<br />
 > On my legs for garters.<br />

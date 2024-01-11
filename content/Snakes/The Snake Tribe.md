@@ -1,6 +1,5 @@
 ---
 title: The Snake Tribe
-number: 49
 ---
 
 The generic name for snakes is _inădû′_. They are all regarded as _anida′wehĭ_, “supernaturals,” having an intimate connection with the rain and thunder gods, and possessing a certain influence over the other animal and plant tribes. It is said that the snakes, the deer, and the ginseng act as allies, so that an injury to one is avenged by all. The feeling toward snakes is one of mingled fear and reverence, and every precaution is taken to avoid killing or offending one, especially the rattlesnake. He who kills a snake will soon see others; and should he kill a second one, so many will come around him whichever way he may turn that he will become dazed at the sight of their glistening eyes and darting tongues and will go wandering about like a crazy man, unable to find his way out of the woods. To guard against this misfortune there are certain prayers which the initiated say in order that a snake may not cross their path, and on meeting the first one of the season the hunter humbly begs of him, “Let us not see each other this summer.” Certain smells, as that of the wild parsnip, and certain songs, as those of the _Unika′wĭ_ or Townhouse dance, are offensive to the snakes and make them angry. For this reason the Unika′wĭ dance is held only late in the fall, after they have retired to their dens for the winter.
