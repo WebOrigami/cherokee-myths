@@ -4,7 +4,7 @@
   "type": "module",
   "dependencies": {
     "@weborigami/origami": "https://gitpkg.now.sh/WebOrigami/origami/origami?e504e608",
-    "@weborigami/pagefind": "https://gitpkg.now.sh/WebOrigami/extensions/pagefind?56b7ecf0"
+    "@weborigami/pagefind": "https://gitpkg.now.sh/WebOrigami/extensions/pagefind?f7c112a7"
   },
   "scripts": {
     "start": "ori @serve @watch src, =@debug site.ori",
