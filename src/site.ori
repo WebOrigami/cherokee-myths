@@ -8,7 +8,7 @@
   index.html = index.ori(stories)
 
   # Folder of indexes and resources for searching, plus search page
-  pagefind = package:@weborigami/pagefind({ stories })
+  pagefind = @once(=package:@weborigami/pagefind({ stories }))
   search.html = search.ori()
 
   # Stories area applies a template to each markdown story in /content folder.
