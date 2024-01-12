@@ -2,7 +2,7 @@
 @map({ keyName: "chapter", valueMap: =`
   <h2>{{ chapter }}</h2>
   <ul>
-    {{ @map(_, { keyName: "story", valueMap: =`
+    {{ @map(_, { keyName: "story", needsSourceValue: @false, valueMap: =`
     <li>
       <a href="/stories/{{ chapter }}/{{ story }}">{{ @basename(story) }}</a>
     </li>
