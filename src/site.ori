@@ -16,8 +16,8 @@
   )
 
   # Turn all the markdown files into HTML fragments.
-  fragments = @map(content, { deep: @true, extensions: "md→html", valueMap: @mdHtml })
+  fragments = @mapDeep(content, @mdHtml)
 
   # Put all those HTML fragments into a page template.
-  stories = @map(fragments, { deep: @true, valueMap: page.ori })
+  stories = @mapDeep(fragments, page.ori)
 }
