@@ -7,7 +7,8 @@
   # Home page: lists all the stories grouped by folder
   index.html = index.ori(stories)
 
-  # Folder of indexes and resources for searching, plus search page
+  # A folder of search indexes and resources created on demand (but only once),
+  # plus a search page
   pagefind = @once(=package:@weborigami/pagefind({ stories }))
   search.html = search.ori()
 
