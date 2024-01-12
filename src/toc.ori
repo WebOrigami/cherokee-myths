@@ -4,7 +4,7 @@
   <ul>
     {{ @map(_, { keyName: "story", valueMap: =`
     <li>
-      <a href="/{{ chapter }}/{{ story }}">{{ _/title }}</a>
+      <a href="/stories/{{ chapter }}/{{ story }}">{{ @basename(story) }}</a>
     </li>
     ` }) }}
   </ul>

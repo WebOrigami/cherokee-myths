@@ -1,0 +1,5 @@
+# Story template
+=page.ori({
+  title: _/title
+  @text: @mdHtml(_/@text)
+})
