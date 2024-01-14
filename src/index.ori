@@ -1,5 +1,5 @@
 # The home page is mostly the table of contents.
-# We also add the information from the ReadMe file.
+# We also include the site description from the ReadMe file.
 =page.ori({
   title: "Cherokee Myths",
   @text: `

@@ -1,4 +1,4 @@
-# Story template
+# Story template converts a markdown input document to HTML
 =page.ori({
   title: _/title
   @text: @mdHtml(_/@text)

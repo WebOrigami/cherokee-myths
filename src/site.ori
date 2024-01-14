@@ -1,10 +1,10 @@
-# This file defines the structure of the entire site.
-# The things defined here become the site's top-level pages/areas.
+# This file establishes the structure of the entire site. The formulas define
+# the site's top-level pages/areas.
 {
   # Stylesheet and fonts
   assets
 
-  # Home page: lists all the stories grouped by folder
+  # Home page lists all the stories grouped by folder
   index.html = index.ori(stories)
 
   # A folder of search indexes and resources created on demand (but only once),
@@ -12,6 +12,6 @@
   pagefind = @once(=package:@weborigami/pagefind({ stories }))
   search.html = search.ori()
 
-  # Stories area applies a template to each markdown story in /content folder.
+  # Stories area applies a template to each markdown story in `content` folder.
   stories = @mapDeep(content, { extensions: "md→html", valueMap: story.ori })
 }
