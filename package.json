@@ -6,12 +6,6 @@
     "@weborigami/origami": "https://gitpkg.now.sh/WebOrigami/origami/origami?059a83c7",
     "@weborigami/pagefind": "https://gitpkg.now.sh/WebOrigami/extensions/pagefind?f7c112a7"
   },
-  "engines": {
-    "node": ">=16.14.2"
-  },
-  "glitch": {
-    "projectType": "generated_static"
-  },
   "scripts": {
     "build": "ori @copy src/site.ori, @files/build",
     "docs": "ori '@svg docs/diagram.ori, { createLinks: false }' > docs/site.svg",
