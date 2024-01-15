@@ -7,7 +7,8 @@
     "@weborigami/pagefind": "https://gitpkg.now.sh/WebOrigami/extensions/pagefind?f7c112a7"
   },
   "scripts": {
-    "start": "ori @serve @watch src, =@debug site.ori",
-    "build": "ori @copy src/site.ori, @files/build"
+    "build": "ori @copy src/site.ori, @files/build",
+    "docs": "ori '@svg docs/diagram.ori, { createLinks: false }' > docs/site.svg",
+    "start": "ori @serve @watch src, =@debug site.ori"
   }
 }

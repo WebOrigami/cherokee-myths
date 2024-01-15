@@ -5,6 +5,6 @@
   @text: `
     {{ toc.ori(_) }}
     <hr>
-    {{ @mdHtml(README.md) }}
+    {{ @mdHtml(docs/about.md) }}
   `
 })

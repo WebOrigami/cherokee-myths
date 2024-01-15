@@ -1,0 +1,17 @@
+# The Origami SVG diagrams currently show the entire structure of a site, which
+# is more than we want to show in a summary diagram in the README.md. For now
+# we manually define a simple structure so we can generate that summary SVG.
+{
+  assets: "Stylesheet and fonts"
+  index.html: "Home page"
+  pagefind: "Search indexes"
+  search.html: "Search page"
+  stories: {
+    Birds: "Bird myths"
+    Cosmos: "Cosmological myths"
+    Fourfooted: "Four-footed animal myths"
+    Miscellaneous: "Miscellaneous myths"
+    Snakes: "Snake myths"
+    Wonder: "Wonder tales"
+  }
+}
