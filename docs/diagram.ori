@@ -2,16 +2,21 @@
 # is more than we want to show in a summary diagram in the README.md. For now
 # we manually define a simple structure so we can generate that summary SVG.
 {
-  assets: "Stylesheet and fonts"
+  assets: "(Stylesheet and fonts)"
   index.html: "Home page"
-  pagefind: "Search indexes"
+  pagefind: "(Search indexes)"
   search.html: "Search page"
   stories: {
-    Birds: "Bird myths"
-    Cosmos: "Cosmological myths"
-    Fourfooted: "Four-footed animal myths"
-    Miscellaneous: "Miscellaneous myths"
-    Snakes: "Snake myths"
-    Wonder: "Wonder tales"
+    Birds: {
+      The\ Eagle’s\ Revenge.html: "(story)"
+      The\ Huhu\ Gets\ Married.html: "(story)"
+      The\ Hunter\ and\ the\ Buzzard.html: "(story)"
+      The\ Owl\ Gets\ Married.html: "(story)"
+    }
+    Cosmos: "(Cosmological myths)"
+    Fourfooted: "(Four-footed animal myths)"
+    Miscellaneous: "(Miscellaneous myths)"
+    Snakes: "(Snake myths)"
+    Wonder: "(Wonder tales)"
   }
 }
