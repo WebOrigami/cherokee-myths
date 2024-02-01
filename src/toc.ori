@@ -1,12 +1,12 @@
 # This template reduces the structure of the entire folder tree of stories to a
 # table of contents, with headings for chapter folders and links to each story.
-@map({ keyName: "chapter", valueMap: =`
+@map((_, chapter) => `
   <h2>{{ chapter }}</h2>
   <ul>
-    {{ @map(_, { keyName: "story", needsSourceValue: @false, valueMap: =`
+    {{ @map(_, { needsSourceValue: @false, valueMap: (_, story) => `
     <li>
       <a href="/stories/{{ chapter }}/{{ story }}">{{ @basename(story) }}</a>
     </li>
     ` }) }}
   </ul>
-` })
+`)
