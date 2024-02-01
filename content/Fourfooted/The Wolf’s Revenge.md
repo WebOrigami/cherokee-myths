@@ -1,7 +1,3 @@
----
-title: The Wolf’s Revenge
----
-
 Kana′tĭ had wolves to hunt for him, because they are good hunters and never fail. He once sent out two wolves at once. One went to the east and did not return. The other went to the north, and when he returned at night and did not find his fellow he knew he must be in trouble and started after him. After traveling on some time he found his brother lying nearly dead beside a great greensnake (_sălikwâ′yĭ_) which had attacked him. The snake itself was too badly wounded to crawl away, and the angry wolf, who had magic powers, taking out several hairs from his own whiskers, shot them into the body of the snake and killed it. He then hurried back to Kana′tĭ, who sent the Terrapin after a great doctor who lived in the west to save the wounded wolf. The wolf went back to help his brother and by his magic powers he had him cured long before the doctor came from the west, because the Terrapin was such a slow traveler and the doctor had to prepare his roots before he started.
 
 ---

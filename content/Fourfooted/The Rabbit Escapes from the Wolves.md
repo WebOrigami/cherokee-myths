@@ -1,7 +1,3 @@
----
-title: The Rabbit Escapes from the Wolves
----
-
 Some Wolves once caught the Rabbit and were going to eat him when he asked leave to show them a new dance he was practicing. They knew that the Rabbit was a great song leader, and they wanted to learn the latest dance, so they agreed and made a ring about him while he got ready. He patted his feet and began to dance around in a circle, singing:
 
 > _Tlâge′sitûñ′ găli′sgi′sidâ′hă—_<br /> > _Ha′nia lĭl! lĭl! Ha′nia lĭl! lĭl!_

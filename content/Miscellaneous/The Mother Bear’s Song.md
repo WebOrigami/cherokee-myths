@@ -1,7 +1,3 @@
----
-title: The Mother Bear’s Song
----
-
 A hunter in the woods one day heard singing in a cave. He came near and peeped in, and it was a mother bear singing to her cubs and telling them what to do when the hunters came after them.
 
 Said the mother bear to the cubs, “When you hear the hunters coming down the creek, then—

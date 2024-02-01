@@ -1,7 +1,3 @@
----
-title: Nûñ′Yunu′Wĭ, the Stone Man
----
-
 This is what the old men told me when I was a boy.
 
 Once when all the people of the settlement were out in the mountains on a great hunt one man who had gone on ahead climbed to the top of a high ridge and found a large river on the other side. While he was looking across he saw an old man walking about on the opposite ridge, with a cane that seemed to be made of some bright, shining rock. The hunter watched and saw that every little while the old man would point his cane in a certain direction, then draw it back and smell the end of it. At last he pointed it in the direction of the hunting camp on the other side of the mountain, and this time when he drew back the staff he sniffed it several times as if it smelled very good, and then started along the ridge straight for the camp. He moved very slowly, with the help of the cane, until he reached the end of the ridge, when he threw the cane out into the air and it became a bridge of shining rock stretching across the river. After he had crossed over upon the bridge it became a cane again, and the old man picked it up and started over the mountain toward the camp.

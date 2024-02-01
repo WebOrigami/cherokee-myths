@@ -1,6 +1,3 @@
----
-title: The Pheasant Beating Corn
----
 The Pheasant once saw a woman beating corn in a wooden mortar in front of the house. “I can do that, too,” said he, but the woman would not believe it, so the Pheasant went into the woods and got upon a hollow log and “drummed” with his wings as a pheasant does, until the people in the house heard him and thought he was really beating corn.
 
 ***

@@ -1,7 +1,3 @@
----
-title: The Smaller Reptiles—Fishes and Insects
----
-
 There are several varieties of frogs and toads, each with a different name, but there is very little folklore in connection with them. The common green frog is called _walâ′sĭ_, and among the Cherokee, as among uneducated whites, the handling of it is thought to cause warts, which for this reason are called by the same name, _walâ′sĭ_. A solar eclipse is believed to be caused by the attempt of a great frog to swallow the sun, and in former times it was customary on such occasions to fire guns and make other loud noises to frighten away the frog. The smaller varieties are sometimes eaten, and on rare occasions the bullfrog also, but the meat is tabued to ball players while in training, for fear that the brittleness of the frog’s bones would be imparted to those of the player.
 
 The land tortoise (_tûksĭ′_) is prominent in the animal myths, and is reputed to have been a great warrior in the old times. On account of the stoutness of its legs ball players rub their limbs with them before going into the contest. The common water turtle (_săligu′gĭ_), which occupies so important a place in the mythology of the northern tribes, is not mentioned in Cherokee myth or folklore, and the same is true of the soft-shelled turtle (_uʻlănă′wă_), perhaps for the reason that both are rare in the cold mountain streams of the Cherokee country.

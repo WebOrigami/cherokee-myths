@@ -1,7 +1,3 @@
----
-title: The Rabbit and the Possum After a Wife
----
-
 The Rabbit and the Possum each wanted a wife, but no one would marry either of them. They talked over the matter and the Rabbit said, “We can’t get wives here; let’s go to the next settlement. I’m the messenger for the council, and I’ll tell the people that I bring an order that everybody must take a mate at once, and then we’ll be sure to get our wives.”
 
 The Possum thought this a fine plan, so they started off together to the next town. As the Rabbit traveled faster he got there first and waited outside until the people noticed him and took him into the townhouse. When the chief came to ask his business the Rabbit said he brought an important order from the council that everybody must get married without delay. So the chief called the people together and told them the message from the council. Every animal took a mate at once, and the Rabbit got a wife.

@@ -1,7 +1,3 @@
----
-title: The Ice Man
----
-
 Once when the people were burning the woods in the fall the blaze set fire to a poplar tree, which continued to burn until the fire went down into the roots and burned a great hole in the ground. It burned and burned, and the hole grew constantly larger, until the people became frightened and were afraid it would burn the whole world. They tried to put out the fire, but it had gone too deep, and they did not know what to do.
 
 At last some one said there was a man living in a house of ice far in the north who could put out the fire, so messengers were sent, and after traveling a long distance they came to the ice house and found the Ice Man at home. He was a little fellow with long hair hanging down to the ground in two plaits. The messengers told him their errand and he at once said, “O yes, I can help you,” and began to unplait his hair. When it was all unbraided he took it up in one hand and struck it once across his other hand, and the messengers felt a wind blow against their cheeks. A second time he struck his hair across his hand, and a light rain began to fall. The third time he struck his hair across his open hand there was sleet mixed with the raindrops, and when he struck the fourth time great hailstones fell upon the ground, as if they had come out from the ends of his hair. “Go back now,” said the Ice Man, “and I shall be there to-morrow.” So the messengers returned to their people, whom they found still gathered helplessly about the great burning pit.

@@ -1,7 +1,3 @@
----
-title: Tsulʻkălû′, the Slant-Eyed Giant
----
-
 A long time ago a widow lived with her one daughter at the old town of Kănuga on Pigeon river. The girl was of age to marry, and her mother used to talk with her a good deal, and tell her she must be sure to take no one but a good hunter for a husband, so that they would have some one to take care of them and would always have plenty of meat in the house. The girl said such a man was hard to find, but her mother advised her not to be in a hurry, and to wait until the right one came.
 
 Now the mother slept in the house while the girl slept outside in the âsĭ. One dark night a stranger came to the âsĭ wanting to court the girl, but she told him her mother would let her marry no one but a good hunter. “Well,” said the stranger, “I am a great hunter,” so she let him come in, and he stayed all night. Just before day he said he must go back now to his own place, but that he had brought some meat for her mother, and she would find it outside. Then he went away and the girl had not seen him. When day came she went out and found there a deer, which she brought into the house to her mother, and told her it was a present from her new sweetheart. Her mother was pleased, and they had deersteaks for breakfast.

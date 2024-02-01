@@ -1,7 +1,3 @@
----
-title: The Bullfrog Lover
----
-
 A young man courted a girl, who liked him well enough, but her mother was so much opposed to him that she would not let him come near the house. At last he made a trumpet from the handle of a gourd and hid himself after night near the spring until the old woman came down for water. While she was dipping up the water he put the trumpet to his lips and grumbled out in a deep voice like a bullfrog’s:
 
 > _Yañdaska′gă hûñyahu′skă,_<br /> > _Yañdaska′gă hûñyahu′skă._

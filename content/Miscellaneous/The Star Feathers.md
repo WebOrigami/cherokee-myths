@@ -1,7 +1,3 @@
----
-title: The Star Feathers
----
-
 A long time ago a warrior of roving disposition went down into the white settlements toward the east, where for the first time he saw a peacock. The beautiful long feathers surprised and delighted him, and by trading some valuable Indian possession of his own he managed to buy a few of them, which he took with him to the mountains and hid, until he was ready to use them, in an old beaver lodge under the river bank. To get into the beaver lodge he had to dive under the water.
 
 Then he set to work secretly and made himself a headdress, with the long peacock feathers in the front and trailing out behind and the shorter ones at the sides. At the next dance he wore the new headdress, and asserted that he had been up to the sky and that these were star feathers (see [What the Stars Are Like](</Cosmos/What the Stars Are Like.html>)). He made a long speech also, which he pretended was a message he had received from the star spirits to deliver to the people.

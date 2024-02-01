@@ -1,7 +1,3 @@
----
-title: The Rabbit Goes Duck Hunting
----
-
 The Rabbit was so boastful that he would claim to do whatever he saw anyone else do, and so tricky that he could usually make the other animals believe it all. Once he pretended that he could swim in the water and eat fish just as the Otter did, and when the others told him to prove it he fixed up a plan so that the Otter himself was deceived.
 
 Soon afterward they met again and the Otter said, “I eat ducks sometimes.” Said the Rabbit, “Well, I eat ducks too.” The Otter challenged him to try it; so they went up along the river until they saw several ducks in the water and managed to get near without being seen. The Rabbit told the Otter to go first. The Otter never hesitated, but dived from the bank and swam under water until he reached the ducks, when he pulled one down without being noticed by the others, and came back in the same way.

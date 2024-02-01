@@ -1,7 +1,3 @@
----
-title: What Became of the Rabbit
----
-
 The Deer was very angry at the Rabbit for filing his teeth and determined to be revenged, but he kept still and pretended to be friendly until the Rabbit was off his guard. Then one day, as they were going along together talking, he challenged the Rabbit to jump against him. Now the Rabbit is a great jumper, as every one knows, so he agreed at once. There was a small stream beside the path, as there generally is in that country, and the Deer said:
 
 “Let’s see if you can jump across this branch. We’ll go back a piece, and then when I say _Kû!_ then both run and jump.”

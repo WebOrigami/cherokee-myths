@@ -1,7 +1,3 @@
----
-title: How the Wildcat Caught the Gobbler
----
-
 The Wildcat once caught the Rabbit and was about to kill him, when the Rabbit begged for his life, saying: “I’m so small I would make only a mouthful for you, but if you let me go I’ll show you where you can get a whole drove of Turkeys.” So the Wildcat let him up and went with him to where the Turkeys were.
 
 When they came near the place the Rabbit said to the Wildcat, “Now, you must do just as I say. Lie down as if you were dead and don’t move, even if I kick you, but when I give the word jump up and catch the largest one there.” The Wildcat agreed and stretched out as if dead, while the Rabbit gathered some rotten wood and crumbled it over his eyes and nose to make them look flyblown, so that the Turkeys would think he had been dead some time.

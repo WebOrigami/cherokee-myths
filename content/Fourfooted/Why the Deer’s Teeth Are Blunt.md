@@ -1,7 +1,3 @@
----
-title: Why the Deer’s Teeth Are Blunt
----
-
 The Rabbit felt sore because the Deer had won the horns (see the last story), and resolved to get even. One day soon after the race he stretched a large grapevine across the trail and gnawed it nearly in two in the middle. Then he went back a piece, took a good run, and jumped up at the vine. He kept on running and jumping up at the vine until the Deer came along and asked him what he was doing?
 
 “Don’t you see?” says the Rabbit. “I’m so strong that I can bite through that grapevine at one jump.”

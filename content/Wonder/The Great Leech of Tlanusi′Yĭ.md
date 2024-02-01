@@ -1,7 +1,3 @@
----
-title: The Great Leech of Tlanusi′Yĭ
----
-
 The spot where Valley river joins Hiwassee, at Murphy, in North Carolina, is known among the Cherokees as Tlanusi′yĭ, “The Leech place,” and this is the story they tell of it:
 
 Just above the junction is a deep hole in Valley river, and above it is a ledge of rock running across the stream, over which people used to go as on a bridge. On the south side the trail ascended a high bank, from which they could look down into the water. One day some men going along the trail saw a great red object, full as large as a house, lying on the rock ledge in the middle of the stream below them. As they stood wondering what it could be they saw it unroll—and then they knew it was alive—and stretch itself out along the rock until it looked like a great leech with red and white stripes along its body. It rolled up into a ball and again stretched out at full length, and at last crawled down the rock and was out of sight in the deep water. The water began to boil and foam, and a great column of white spray was thrown high in the air and came down like a waterspout upon the very spot where the men had been standing, and would have swept them all into the water but that they saw it in time and ran from the place.

@@ -1,7 +1,7 @@
 # The home page is mostly the table of contents. At the bottom it inlines some
 # information about this site from a markdown file.
 =page.ori({
-  title: "Cherokee Myths",
+  title: "Cherokee Myths"
   @text: `
     {{ toc.ori(_) }}
     <hr>

@@ -1,7 +1,3 @@
----
-title: The Nest of the Tlă′Nuwă
----
-
 On the north bank of Little Tennessee river, in a bend below the mouth of Citico creek, in Blount county, Tennessee, is a high cliff hanging over the water, and about halfway up the face of the rock is a cave with two openings. The rock projects outward above the cave, so that the mouth can not be seen from above, and it seems impossible to reach the cave either from above or below. There are white streaks in the rock from the cave down to the water. The Cherokee call it Tlă′nuwâ′ĭ, “the place of the Tlă′nuwă,” or great mythic hawk.
 
 In the old time, away back soon after the creation, a pair of Tlă′nuwăs had their nest in this cave. The streaks in the rock were made by the droppings from the nest. They were immense birds, larger than any that live now, and very strong and savage. They were forever flying up and down the river, and used to come into the settlements and carry off dogs and even young children playing near the houses. No one could reach the nest to kill them, and when the people tried to shoot them the arrows only glanced off and were seized and carried away in the talons of the Tlă′nuwăs.

@@ -1,7 +1,3 @@
----
-title: The Huhu Gets Married
----
-
 A widow who had an only a daughter, but no son, found it very hard to make a living and was constantly urging upon the young woman that they ought to have a man in the family, who would be a good hunter and able to help in the field. One evening a stranger lover came courting to the house, and when the girl told him that she could marry only one who was a good worker, he declared that he was exactly that sort of man; so the girl talked to her mother, and on her advice they were married.
 
 The next morning the widow gave her new son-in-law a hoe and sent him out to the cornfield. When breakfast was ready she went to call him, following a sound as of some one hoeing on stony soil, but when she came to the spot she found only a small circle of hoed ground and no sign of her son-in-law. Away over in the thicket she heard a huhu calling.

@@ -1,7 +1,3 @@
----
-title: The Snake Boy
----
-
 There was a boy who used to go bird hunting every day, and all the birds he brought home he gave to his grandmother, who was very fond of him. This made the rest of the family jealous, and they treated him in such fashion that at last one day he told his grandmother he would leave them all, but that she must not grieve for him. Next morning he refused to eat any breakfast, but went off hungry to the woods and was gone all day. In the evening he returned, bringing with him a pair of deer horns, and went directly to the hothouse (âsĭ), where his grandmother was waiting for him. He told the old woman he must be alone that night, so she got up and went into the house where the others were.
 
 At early daybreak she came again to the hothouse and looked in, and there she saw an immense uktena that filled the âsĭ, with horns on its head, but still with two human legs instead of a snake tail. It was all that was left of her boy. He spoke to her and told her to leave him, and she went away again from the door. When the sun was well up, the uktena began slowly to crawl out, but it was full noon before it was all out of the âsĭ. It made a terrible hissing noise as it came out, and all the people ran from it. It crawled on through the settlement, leaving a broad trail in the ground behind it, until it came to a deep bend in the river, where it plunged in and went under the water.

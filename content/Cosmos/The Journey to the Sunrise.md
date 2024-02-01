@@ -1,7 +1,3 @@
----
-title: The Journey to the Sunrise
----
-
 A long time ago several young men made up their minds to find the place where the Sun lives and see what the Sun is like. They got ready their bows and arrows, their parched corn and extra moccasins, and started out toward the east. At first they met tribes they knew, then they came to tribes they had only heard about, and at last to others of which they had never heard.
 
 There was a tribe of root eaters and another of acorn eaters, with great piles of acorn shells near their houses. In one tribe they found a sick man dying, and were told it was the custom there when a man died to bury his wife in the same grave with him. They waited until he was dead, when they saw his friends lower the body into a great pit, so deep and dark that from the top they could not see the bottom. Then a rope was tied around the woman’s body, together with a bundle of pine knots, a lighted pine knot was put into her hand, and she was lowered into the pit to die there in the darkness after the last pine knot was burned.

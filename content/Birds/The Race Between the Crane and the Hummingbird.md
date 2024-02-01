@@ -1,7 +1,3 @@
----
-title: The Race Between the Crane and the Hummingbird
----
-
 The Hummingbird and the Crane were both in love with a pretty woman. She preferred the Hummingbird, who was as handsome as the Crane was awkward, but the Crane was so persistent that in order to get rid of him she finally told him he must challenge the other to a race and she would marry the winner. The Hummingbird was so swift—almost like a flash of lightning—and the Crane so slow and heavy, that she felt sure the Hummingbird would win. She did not know the Crane could fly all night.
 
 They agreed to start from her house and fly around the circle of the world to the beginning, and the one who came in first would marry the woman. At the word the Hummingbird darted off like an arrow and was out of sight in a moment, leaving his rival to follow heavily behind. He flew all day, and when evening came and he stopped to roost for the night he was far ahead. But the Crane flew steadily all night long, passing the Hummingbird soon after midnight and going on until he came to a creek and stopped to rest about daylight. The Hummingbird woke up in the morning and flew on again, thinking how easily he would win the race, until he reached the creek and there found the Crane spearing tadpoles, with his long bill, for breakfast. He was very much surprised and wondered how this could have happened, but he flew swiftly by and soon left the Crane out of sight again.

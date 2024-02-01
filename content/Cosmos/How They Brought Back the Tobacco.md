@@ -1,7 +1,3 @@
----
-title: How They Brought Back the Tobacco
----
-
 In the beginning of the world, when people and animals were all the same, there was only one tobacco plant, to which they all came for their tobacco until the Dagûlʻkû geese stole it and carried it far away to the south. The people were suffering without it, and there was one old woman who grew so thin and weak that everybody said she would soon die unless she could get tobacco to keep her alive.
 
 Different animals offered to go for it, one after another, the larger ones first and then the smaller ones, but the Dagûlʻkû saw and killed every one before he could get to the plant. After the others the little Mole tried to reach it by going under the ground, but the Dagûlʻkû saw his track and killed him as he came out.

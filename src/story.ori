@@ -1,5 +1,5 @@
 # Story template converts a markdown input document to HTML
-=page.ori({
-  title: _/title
+(_, @key) => page.ori({
+  title: @basename(@key)
   @text: @mdHtml(_/@text)
 })

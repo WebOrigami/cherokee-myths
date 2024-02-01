@@ -1,7 +1,3 @@
----
-title: The Uktena and the Ulûñsû′Tĭ
----
-
 Long ago—_hĭlahi′yu_—when the Sun became angry at the people on earth and sent a sickness to destroy them, the Little Men changed a man into a monster snake, which they called Uktena, “The Keen-eyed,” and sent him to kill her. He failed to do the work, and the Rattlesnake had to be sent instead, which made the Uktena so jealous and angry that the people were afraid of him and had him taken up to Gălûñ′lătĭ, to stay with the other dangerous things. He left others behind him, though, nearly as large and dangerous as himself, and they hide now in deep pools in the river and about lonely passes in the high mountains, the places which the Cherokee call “Where the Uktena stays.”
 
 Those who know say that the Uktena is a great snake, as large around as a tree trunk, with horns on its head, and a bright, blazing crest like a diamond upon its forehead, and scales glittering like sparks of fire. It has rings or spots of color along its whole length, and can not be wounded except by shooting in the seventh spot from the head, because under this spot are its heart and its life. The blazing diamond is called _Ulûñsû′tĭ_, “Transparent,” and he who can win it may become the greatest wonder worker of the tribe, but it is worth a man’s life to attempt it, for whoever is seen by the Uktena is so dazed by the bright light that he runs toward the snake instead of trying to escape. Even to see the Uktena asleep is death, not to the hunter himself, but to _his family_.

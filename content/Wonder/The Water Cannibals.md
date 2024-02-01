@@ -1,7 +1,3 @@
----
-title: The Water Cannibals
----
-
 Besides the friendly Nûñnĕ′hĭ of the streams and mountains there is a race of cannibal spirits, who stay at the bottom of the deep rivers and live upon human flesh, especially that of little children. They come out just after daybreak and go about unseen from house to house until they find some one still asleep, when they shoot him with their invisible arrows and carry the dead body down under the water to feast upon it. That no one may know what has happened they leave in place of the body a shade or image of the dead man or little child, that wakes up and talks and goes about just as he did, but there is no life in it, and in seven days it withers and dies, and the people bury it and think they are burying their dead friend. It was a long time before the people found out about this, but now they always try to be awake at daylight and wake up the children, telling them “The hunters are among you.”
 
 This is the way they first knew about the water cannibals: There was a man in Tĭkwăli′tsĭ town who became sick and grew worse until the doctors said he could not live, and then his friends went away from the house and left him alone to die. They were not so kind to each other in the old times as they are now, because they were afraid of the witches that came to torment dying people.

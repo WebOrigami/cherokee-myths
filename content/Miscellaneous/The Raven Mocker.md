@@ -1,7 +1,3 @@
----
-title: The Raven Mocker
----
-
 Of all the Cherokee wizards or witches the most dreaded is the Raven Mocker (_Kâ′lanû Ahyeli′skĭ_), the one that robs the dying man of life. They are of either sex and there is no sure way to know one, though they usually look withered and old, because they have added so many lives to their own.
 
 At night, when some one is sick or dying in the settlement, the Raven Mocker goes to the place to take the life. He flies through the air in fiery shape, with arms outstretched like wings, and sparks trailing behind, and a rushing sound like the noise of a strong wind. Every little while as he flies he makes a cry like the cry of a raven when it “dives” in the air—not like the common raven cry—and those who hear are afraid, because they know that some man’s life will soon go out. When the Raven Mocker comes to the house he finds others of his kind waiting there, and unless there is a doctor on guard who knows how to drive them away they go inside, all invisible, and frighten and torment the sick man until they kill him. Sometimes to do this they even lift him from the bed and throw him on the floor, but his friends who are with him think he is only struggling for breath.

@@ -1,7 +1,3 @@
----
-title: Kana′Tĭ and Selu
----
-
 When I was a boy this is what the old men told me they had heard when they were boys.
 
 Long years ago, soon after the world was made, a hunter and his wife lived at Pilot knob with their only child, a little boy. The father’s name was Kana′tĭ (The Lucky Hunter), and his wife was called Selu (Corn). No matter when Kana′tĭ went into the wood, he never failed to bring back a load of game, which his wife would cut up and prepare, washing off the blood from the meat in the river near the house. The little boy used to play down by the river every day, and one morning the old people thought they heard laughing and talking in the bushes as though there were two children there. When the boy came home at night his parents asked him who had been playing with him all day. “He comes out of the water,” said the boy, “and he calls himself my elder brother. He says his mother was cruel to him and threw him into the river.” Then they knew that the strange boy had sprung from the blood of the game which Selu had washed off at the river’s edge.
