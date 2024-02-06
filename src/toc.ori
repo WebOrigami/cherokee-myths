@@ -3,9 +3,9 @@
 @map((_, chapter) => `
   <h2>{{ chapter }}</h2>
   <ul>
-    {{ @map(_, { needsSourceValue: @false, valueMap: (_, story) => `
+    {{ @map(_, { needsSourceValue: @false, valueMap: (_, filename) => `
     <li>
-      <a href="/stories/{{ chapter }}/{{ story }}">{{ @basename(story) }}</a>
+      <a href="/stories/{{ chapter }}/{{ filename }}">{{ @basename(filename) }}</a>
     </li>
     ` }) }}
   </ul>
