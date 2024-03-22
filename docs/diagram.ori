@@ -1,6 +1,6 @@
-# The Origami SVG diagrams currently show the entire structure of a site, which
-# is more than we want to show in a summary diagram in the README.md. For now
-# we manually define a simple structure so we can generate that summary SVG.
+// The Origami SVG diagrams currently show the entire structure of a site, which
+// is more than we want to show in a summary diagram in the README.md. For now
+// we manually define a simple structure so we can generate that summary SVG.
 {
   assets: "(Stylesheet and fonts)"
   index.html: "Home page"

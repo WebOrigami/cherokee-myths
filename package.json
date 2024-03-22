@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "type": "module",
   "dependencies": {
-    "@weborigami/origami": "https://gitpkg.now.sh/WebOrigami/origami/origami?239c127b",
-    "@weborigami/pagefind": "https://gitpkg.now.sh/WebOrigami/extensions/pagefind?f7c112a7"
+    "@weborigami/origami": "0.0.46",
+    "@weborigami/pagefind": "0.0.1"
   },
   "scripts": {
-    "build": "ori @copy src/site.ori, @files/build",
+    "build": "ori @copy src/site.ori, @mkdir/build",
     "docs": "ori '@svg docs/diagram.ori, { createLinks: false }' > docs/site.svg",
     "start": "ori @serve @watch src, =@debug site.ori"
   }
