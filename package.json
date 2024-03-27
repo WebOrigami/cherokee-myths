@@ -4,10 +4,10 @@
   "type": "module",
   "dependencies": {
     "@weborigami/origami": "0.0.46",
-    "@weborigami/pagefind": "0.0.1"
+    "@weborigami/pagefind": "0.0.3"
   },
   "scripts": {
-    "build": "ori @copy src/site.ori, @mkdir/build",
+    "build": "rm -r build; ori @copy src/site.ori, @mkdir/build",
     "docs": "ori '@svg docs/diagram.ori, { createLinks: false }' > docs/site.svg",
     "start": "ori @serve @watch src, =@debug site.ori"
   }
