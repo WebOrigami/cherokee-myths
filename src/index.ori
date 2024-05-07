@@ -3,8 +3,8 @@
 (stories) => page.ori({
   title: "Cherokee Myths"
   @text: `
-    {{ toc.ori(stories) }}
+    ${ toc.ori(stories) }
     <hr>
-    {{ @mdHtml(docs/about.md) }}
+    ${ @mdHtml(docs/about.md) }
   `
 })
