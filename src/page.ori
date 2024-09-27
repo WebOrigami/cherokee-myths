@@ -14,7 +14,7 @@
           <a href="/">Cherokee Myths</a>
         </div>
         <a id="linkSearch" href="/search.html">
-          <span id="searchGlyph">&#9906</span> Search
+          <span id="searchGlyph">&#9906;</span> Search
         </a>
       </nav>
     </header>
