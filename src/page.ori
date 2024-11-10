@@ -1,5 +1,5 @@
 // Main page template
-(page) => @indent`
+(page) => indent`
 <!DOCTYPE html>
 <html lang="en">
   <head>

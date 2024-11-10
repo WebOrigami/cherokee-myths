@@ -1,11 +1,11 @@
 // This template reduces the structure of the entire folder tree of stories to a
 // table of contents, with headings for chapter folders and links to each story.
-(stories) => @map(stories, (chapterStories, chapterSlash) => @indent`
-  <h2>${ @slash/remove(chapterSlash) }</h2>
+(stories) => map(stories, (chapterStories, chapterSlash) => indent`
+  <h2>${ slash/remove(chapterSlash) }</h2>
   <ul>
-    ${ @map(chapterStories, { needsSourceValue: @false, value: (story, filename) => @indent`
+    ${ map(chapterStories, { needsSourceValue: false, value: (story, filename) => indent`
     <li>
-      <a href="/stories/${ chapterSlash }${ filename }">${ @basename(filename) }</a>
+      <a href="/stories/${ chapterSlash }${ filename }">${ basename(filename) }</a>
     </li>
     ` }) }
   </ul>
