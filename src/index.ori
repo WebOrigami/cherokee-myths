@@ -2,7 +2,7 @@
 // information about this site from a markdown file.
 (stories) => page.ori({
   title: "Cherokee Myths"
-  @text: `
+  @text: @indent`
     ${ toc.ori(stories) }
     <hr>
     ${ @mdHtml(docs/about.md) }
