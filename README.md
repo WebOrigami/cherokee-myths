@@ -1,4 +1,4 @@
-This project showcases the use of [Web Origami](https://weborigami.org) to create a text-focused site with a table of contents and full-text search.
+This project showcases the use of [Web Origami](https://weborigami.org) to create a text-focused site with a table of contents and full-text search using the [Origami pagefind extension](https://github.com/WebOrigami/extensions/tree/main/pagefind).
 
 The [site.ori](src/site.ori) Origami file defines the site's structure:
 
