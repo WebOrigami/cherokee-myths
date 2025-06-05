@@ -10,19 +10,13 @@
 <title>g</title>
 <g id="node1" class="node">
 <title></title>
-<g id="a_node1"><a xlink:href=".">
 <ellipse fill="white" stroke="#666666" cx="5.5" cy="-492" rx="5.5" ry="5.5"/>
-</a>
-</g>
 </g>
 <!-- assets/ -->
 <g id="node2" class="node">
 <title>assets/</title>
-<g id="a_node2"><a xlink:href="assets/" xlink:title="(Stylesheet and fonts)\l">
 <polygon fill="white" stroke="#b3b3b3" points="284.1,-726 170.55,-726 170.55,-690 284.1,-690 284.1,-726"/>
 <text text-anchor="start" x="178.68" y="-705" font-family="Helvetica,sans-Serif" font-size="10.00">(Stylesheet and fonts)</text>
-</a>
-</g>
 </g>
 <!-- &#45;&gt;assets/ -->
 <g id="edge1" class="edge">
@@ -34,11 +28,8 @@
 <!-- index.html -->
 <g id="node3" class="node">
 <title>index.html</title>
-<g id="a_node3"><a xlink:href="index.html" xlink:title="Home page\l">
 <polygon fill="white" stroke="#b3b3b3" points="261.02,-618 193.62,-618 193.62,-582 261.02,-582 261.02,-618"/>
 <text text-anchor="start" x="201.47" y="-597" font-family="Helvetica,sans-Serif" font-size="10.00">Home page</text>
-</a>
-</g>
 </g>
 <!-- &#45;&gt;index.html -->
 <g id="edge2" class="edge">
@@ -50,11 +41,8 @@
 <!-- pagefind/ -->
 <g id="node4" class="node">
 <title>pagefind/</title>
-<g id="a_node4"><a xlink:href="pagefind/" xlink:title="(Search indexes)\l">
 <polygon fill="white" stroke="#b3b3b3" points="272.91,-510 181.73,-510 181.73,-474 272.91,-474 272.91,-510"/>
 <text text-anchor="start" x="189.53" y="-489" font-family="Helvetica,sans-Serif" font-size="10.00">(Search indexes)</text>
-</a>
-</g>
 </g>
 <!-- &#45;&gt;pagefind/ -->
 <g id="edge3" class="edge">
@@ -66,11 +54,8 @@
 <!-- search.html -->
 <g id="node5" class="node">
 <title>search.html</title>
-<g id="a_node5"><a xlink:href="search.html" xlink:title="Search page\l">
 <polygon fill="white" stroke="#b3b3b3" points="263.53,-402 191.11,-402 191.11,-366 263.53,-366 263.53,-402"/>
 <text text-anchor="start" x="198.97" y="-381" font-family="Helvetica,sans-Serif" font-size="10.00">Search page</text>
-</a>
-</g>
 </g>
 <!-- &#45;&gt;search.html -->
 <g id="edge4" class="edge">
@@ -82,10 +67,7 @@
 <!-- stories/ -->
 <g id="node6" class="node">
 <title>stories/</title>
-<g id="a_node6"><a xlink:href="stories/">
 <ellipse fill="white" stroke="#666666" cx="227.32" cy="-288" rx="5.5" ry="5.5"/>
-</a>
-</g>
 </g>
 <!-- &#45;&gt;stories/ -->
 <g id="edge5" class="edge">
@@ -97,10 +79,7 @@
 <!-- stories/Birds/ -->
 <g id="node7" class="node">
 <title>stories/Birds/</title>
-<g id="a_node7"><a xlink:href="stories/Birds/">
 <ellipse fill="white" stroke="#666666" cx="526.12" cy="-546" rx="5.5" ry="5.5"/>
-</a>
-</g>
 </g>
 <!-- stories/&#45;&gt;stories/Birds/ -->
 <g id="edge6" class="edge">
@@ -112,11 +91,8 @@
 <!-- stories/Cosmos/ -->
 <g id="node12" class="node">
 <title>stories/Cosmos/</title>
-<g id="a_node12"><a xlink:href="stories/Cosmos/" xlink:title="(Cosmological myths)\l">
 <polygon fill="white" stroke="#b3b3b3" points="582.25,-468 469.99,-468 469.99,-432 582.25,-432 582.25,-468"/>
 <text text-anchor="start" x="478.06" y="-447" font-family="Helvetica,sans-Serif" font-size="10.00">(Cosmological myths)</text>
-</a>
-</g>
 </g>
 <!-- stories/&#45;&gt;stories/Cosmos/ -->
 <g id="edge11" class="edge">
@@ -128,11 +104,8 @@
 <!-- stories/Fourfooted/ -->
 <g id="node13" class="node">
 <title>stories/Fourfooted/</title>
-<g id="a_node13"><a xlink:href="stories/Fourfooted/" xlink:title="(Four&#45;footed animal myths)\l">
 <polygon fill="white" stroke="#b3b3b3" points="594.16,-360 458.08,-360 458.08,-324 594.16,-324 594.16,-360"/>
 <text text-anchor="start" x="466.1" y="-339" font-family="Helvetica,sans-Serif" font-size="10.00">(Four&#45;footed animal myths)</text>
-</a>
-</g>
 </g>
 <!-- stories/&#45;&gt;stories/Fourfooted/ -->
 <g id="edge12" class="edge">
@@ -144,11 +117,8 @@
 <!-- stories/Miscellaneous/ -->
 <g id="node14" class="node">
 <title>stories/Miscellaneous/</title>
-<g id="a_node14"><a xlink:href="stories/Miscellaneous/" xlink:title="(Miscellaneous myths)\l">
 <polygon fill="white" stroke="#b3b3b3" points="584.1,-252 468.15,-252 468.15,-216 584.1,-216 584.1,-252"/>
 <text text-anchor="start" x="476.39" y="-231" font-family="Helvetica,sans-Serif" font-size="10.00">(Miscellaneous myths)</text>
-</a>
-</g>
 </g>
 <!-- stories/&#45;&gt;stories/Miscellaneous/ -->
 <g id="edge13" class="edge">
@@ -160,11 +130,8 @@
 <!-- stories/Snakes/ -->
 <g id="node15" class="node">
 <title>stories/Snakes/</title>
-<g id="a_node15"><a xlink:href="stories/Snakes/" xlink:title="(Snake myths)\l">
 <polygon fill="white" stroke="#b3b3b3" points="566.59,-144 485.66,-144 485.66,-108 566.59,-108 566.59,-144"/>
 <text text-anchor="start" x="493.89" y="-123" font-family="Helvetica,sans-Serif" font-size="10.00">(Snake myths)</text>
-</a>
-</g>
 </g>
 <!-- stories/&#45;&gt;stories/Snakes/ -->
 <g id="edge14" class="edge">
@@ -176,11 +143,8 @@
 <!-- stories/Wonder/ -->
 <g id="node16" class="node">
 <title>stories/Wonder/</title>
-<g id="a_node16"><a xlink:href="stories/Wonder/" xlink:title="(Wonder tales)\l">
 <polygon fill="white" stroke="#b3b3b3" points="566.7,-36 485.54,-36 485.54,0 566.7,0 566.7,-36"/>
 <text text-anchor="start" x="493.33" y="-15" font-family="Helvetica,sans-Serif" font-size="10.00">(Wonder tales)</text>
-</a>
-</g>
 </g>
 <!-- stories/&#45;&gt;stories/Wonder/ -->
 <g id="edge15" class="edge">
@@ -192,11 +156,8 @@
 <!-- stories/Birds/The Eagle’s Revenge.html -->
 <g id="node8" class="node">
 <title>stories/Birds/The Eagle’s Revenge.html</title>
-<g id="a_node8"><a xlink:href="stories/Birds/The Eagle’s Revenge.html" xlink:title="(story)\l">
 <polygon fill="white" stroke="#b3b3b3" points="903.44,-726 849.44,-726 849.44,-690 903.44,-690 903.44,-726"/>
 <text text-anchor="start" x="862.28" y="-705" font-family="Helvetica,sans-Serif" font-size="10.00">(story)</text>
-</a>
-</g>
 </g>
 <!-- stories/Birds/&#45;&gt;stories/Birds/The Eagle’s Revenge.html -->
 <g id="edge7" class="edge">
@@ -208,11 +169,8 @@
 <!-- stories/Birds/The Huhu Gets Married.html -->
 <g id="node9" class="node">
 <title>stories/Birds/The Huhu Gets Married.html</title>
-<g id="a_node9"><a xlink:href="stories/Birds/The Huhu Gets Married.html" xlink:title="(story)\l">
 <polygon fill="white" stroke="#b3b3b3" points="903.44,-618 849.44,-618 849.44,-582 903.44,-582 903.44,-618"/>
 <text text-anchor="start" x="862.28" y="-597" font-family="Helvetica,sans-Serif" font-size="10.00">(story)</text>
-</a>
-</g>
 </g>
 <!-- stories/Birds/&#45;&gt;stories/Birds/The Huhu Gets Married.html -->
 <g id="edge8" class="edge">
@@ -224,11 +182,8 @@
 <!-- stories/Birds/The Hunter and the Buzzard.html -->
 <g id="node10" class="node">
 <title>stories/Birds/The Hunter and the Buzzard.html</title>
-<g id="a_node10"><a xlink:href="stories/Birds/The Hunter and the Buzzard.html" xlink:title="(story)\l">
 <polygon fill="white" stroke="#b3b3b3" points="903.44,-510 849.44,-510 849.44,-474 903.44,-474 903.44,-510"/>
 <text text-anchor="start" x="862.28" y="-489" font-family="Helvetica,sans-Serif" font-size="10.00">(story)</text>
-</a>
-</g>
 </g>
 <!-- stories/Birds/&#45;&gt;stories/Birds/The Hunter and the Buzzard.html -->
 <g id="edge9" class="edge">
@@ -240,11 +195,8 @@
 <!-- stories/Birds/The Owl Gets Married.html -->
 <g id="node11" class="node">
 <title>stories/Birds/The Owl Gets Married.html</title>
-<g id="a_node11"><a xlink:href="stories/Birds/The Owl Gets Married.html" xlink:title="(story)\l">
 <polygon fill="white" stroke="#b3b3b3" points="903.44,-402 849.44,-402 849.44,-366 903.44,-366 903.44,-402"/>
 <text text-anchor="start" x="862.28" y="-381" font-family="Helvetica,sans-Serif" font-size="10.00">(story)</text>
-</a>
-</g>
 </g>
 <!-- stories/Birds/&#45;&gt;stories/Birds/The Owl Gets Married.html -->
 <g id="edge10" class="edge">

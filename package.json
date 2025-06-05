@@ -7,8 +7,8 @@
     "@weborigami/pagefind": "0.0.4"
   },
   "scripts": {
-    "build": "ori copy src/site.ori, clear files:build",
-    "docs": "ori 'svg docs/diagram.ori, { createLinks: false }' > docs/site.svg",
-    "start": "ori serve watch src, =debug src/site.ori"
+    "build": "ori copy src/site.jse, clear files:build",
+    "docs": "ori 'svg docs/diagram.jse, { createLinks: false }' > docs/site.svg",
+    "start": "ori serve watch src, =debug src/site.jse"
   }
 }

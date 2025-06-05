@@ -6,12 +6,12 @@
   index.html: "Home page"
   pagefind/: "(Search indexes)"
   search.html: "Search page"
-  stories/: {
-    Birds/: {
-      The\ Eagle’s\ Revenge.html: "(story)"
-      The\ Huhu\ Gets\ Married.html: "(story)"
-      The\ Hunter\ and\ the\ Buzzard.html: "(story)"
-      The\ Owl\ Gets\ Married.html: "(story)"
+  stories: {
+    Birds: {
+      "The Eagle’s Revenge.html": "(story)"
+      "The Huhu Gets Married.html": "(story)"
+      "The Hunter and the Buzzard.html": "(story)"
+      "The Owl Gets Married.html": "(story)"
     }
     Cosmos/: "(Cosmological myths)"
     Fourfooted/: "(Four-footed animal myths)"
