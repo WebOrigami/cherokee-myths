@@ -2,17 +2,17 @@
 // the site's top-level pages/areas.
 {
   // Folder with stylesheet and fonts
-  <assets>
+  assets/
 
   // Home page lists all the stories grouped by folder
-  index.html = <index.jse>(stories)
+  index.html = index.jse(stories)
 
   // Folder of search indexes and resources created on demand (but only once),
   // plus a search page
-  pagefind/ = Origami.once(() => <package:@weborigami/pagefind>({ stories }))
-  search.html = <search.jse/>
+  pagefind/ = Origami.once(() => package:@weborigami/pagefind({ stories }))
+  search.html = search.jse/
 
   // Stories area processes all markdown files in the `content` tree, applying a
   // template that also converts the markdown content to HTML.
-  stories/ = Tree.deepMap(<content>, { extension: ".md→.html", value: <story.jse> })
+  stories/ = Tree.deepMap(content/, { extension: ".md→.html", value: story.jse })
 }
