@@ -1,9 +1,9 @@
 // The home page is mostly the table of contents. At the bottom it inlines some
 // information about this site from a markdown file.
-(stories) => page.jse({
+(stories) => page.ori({
   title: "Cherokee Myths"
   _body: Tree.indent`
-    ${ toc.jse(stories) }
+    ${ toc.ori(stories) }
     <hr>
     ${ Origami.mdHtml(docs/about.md) }
   `

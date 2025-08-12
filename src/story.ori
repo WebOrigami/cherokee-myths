@@ -1,5 +1,5 @@
 // Story template converts a markdown input document to HTML
-(story, filename) => page.jse({
+(story, filename) => page.ori({
   // Remove the extension from the file name to get the title.
   title: Origami.basename(filename)
   _body: Origami.mdHtml(story)
