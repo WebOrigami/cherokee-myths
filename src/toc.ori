@@ -3,10 +3,10 @@
 (stories) => Tree.map(stories, (chapterStories, chapterSlash) => Tree.indent`
   <h2>${ Origami.slash.remove(chapterSlash) }</h2>
   <ul>
-    ${ Tree.map(chapterStories, { needsSourceValue: false, value: (story, filename) => Tree.indent`
+    ${ Tree.map(Tree.keys(chapterStories), (filename) => Tree.indent`
     <li>
       <a href="/stories/${ chapterSlash }${ filename }">${ Origami.basename(filename) }</a>
     </li>
-    ` }) }
+    ` ) }
   </ul>
 `)
