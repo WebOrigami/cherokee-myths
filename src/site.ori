@@ -14,5 +14,9 @@
 
   // Stories area processes all markdown files in the `content` tree, applying a
   // template that also converts the markdown content to HTML.
-  stories/ = Tree.deepMap(content/, { extension: ".md→.html", value: story.ori })
+  stories/ = Tree.mapExtension(content/, {
+    deep: true
+    extension: ".md→.html"
+    value: story.ori
+  })
 }
